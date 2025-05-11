@@ -1,0 +1,1 @@
+package com.burnboost.fitnesstracker.model;
